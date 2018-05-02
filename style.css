@@ -6,10 +6,12 @@
   body{
       background: #777;
       font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-      width: 960px;
       font-size: 18px;
   }
-
+.wrapper{
+        margin: auto;
+        width: 960px;
+}
   header, nav {
     padding: 20px;
     margin-bottom: 20px;
