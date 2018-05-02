@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+  }
+
+  body{
+      background: gray;
+  }
+
+  header, nav {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: gray;
+    background: white;
+    font-size: 25pt;
+  }
+
+  section{
+      float: left;
+      background: white;
+      width: 55%;
+      padding: 20px;
+      height: 350px;
+  }
+  h1, p{
+      padding: 20px;
+      background: white;
+      color: gray;
+  }
+
+  article{
+      padding: 10px;
+      background: gray;
+      color: white;
+  }
+  aside{
+      background: white;
+      float: right;
+      width: 44%;
+      height: 350px;
+      padding: 20px;
+  }
+
+  footer {
+    clear: both;
+    padding: 20px;
+    margin-top: 20px;
+    color: gray;
+    background: white;
+    font-size: 25pt;
+  }
